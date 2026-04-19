@@ -17,9 +17,9 @@ This project presents an interactive dashboard to analyze vehicle sales performa
 - Time-based trend analysis  
 
 ## 🛠️ Tools & Technologies
-- Power BI / Excel  
+- Excel  
 - Data Visualization  
-- Pivot Tables / DAX  
+- Pivot Tables 
 
 ## 📈 Key Insights
 - Top-performing vehicles contributing maximum revenue  
