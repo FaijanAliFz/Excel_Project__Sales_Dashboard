@@ -1,4 +1,5 @@
 # 🚗 Vehicle Sales Dashboard
+<img width="4200" height="2550" alt="image" src="https://github.com/user-attachments/assets/5112f1c0-abe0-4ee4-a31b-6e2312d56603" />
 
 ## 📊 Overview
 This project presents an interactive dashboard to analyze vehicle sales performance across different dimensions such as time, product (car make & model), and sales personnel. It helps in understanding trends, identifying top performers, and supporting data-driven decisions.
